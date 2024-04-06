@@ -1,1 +1,1 @@
-# git-practices
+this my readme file of git practices
